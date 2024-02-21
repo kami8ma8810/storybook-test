@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>i-25-contrast</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12.5" cy="12.5" r="9.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19" height="19" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="i-25-contrast">
+            <g>
+                <rect id="Rectangle-2" x="0" y="0" width="25" height="25"></rect>
+                <path d="M12.5,22 C17.7467051,22 22,17.7467051 22,12.5 C22,7.25329488 17.7467051,3 12.5,3 L12.5,22 Z" id="Oval-2" fill="#D5D5D5"></path>
+                <path d="M12.5,3.5 L12.5,21.5" id="Line" stroke="#757575" stroke-linecap="square"></path>
+                <use id="Oval-2" stroke="#757575" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

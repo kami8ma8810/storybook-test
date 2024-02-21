@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>i-25-grayscale-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EC396A" offset="0%"></stop>
+            <stop stop-color="#D375F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="i-25-grayscale-active">
+            <g id="i-25-grayscale">
+                <rect id="Rectangle-4" opacity="0" x="0" y="0" width="25" height="25"></rect>
+                <path d="M12.5,20.5 C16.3659932,20.5 19.5,17.4004329 19.5,13.5769231 C19.5,9.75341327 15,6.5 12.5,4.5 C10,6.5 5.5,9.75341327 5.5,13.5769231 C5.5,17.4004329 8.63400675,20.5 12.5,20.5 Z" id="Oval-3" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round" fill-opacity="0" fill="#FFFFFF"></path>
+                <path d="M12.5,20.5 C16.3659932,20.5 19.5,17.4004329 19.5,13.5769231 C19.5,9.75341327 15,6.5 12.5,4.5 L12.5,20.5 Z" id="Oval-3" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round" fill-opacity="0.3" fill="url(#linearGradient-1)"></path>
+                <path d="M6.5,5.453125 C6.53331224,5.48650903 20.5,19.5 20.5,19.5 C20.5,19.5 6.46668776,5.41974097 6.5,5.453125 Z" id="Line" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="square"></path>
+                <path d="M5.5,5.5 L20.3492424,20.3492424" id="Line" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

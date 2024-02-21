@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>i-25-camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="i-25-camera" stroke="#000000">
+            <path d="M22.5,19.5 C22.5,20.6045695 21.6045695,21.5 20.5,21.5 L4.5,21.5 C3.3954305,21.5 2.5,20.6045695 2.5,19.5 L2.5,8.5 C2.5,7.3954305 3.3954305,6.5 4.5,6.5 L8,6.5 L9.5,3.5 L15.5,3.5 L17,6.5 L20.5,6.5 C21.6045695,6.5 22.5,7.3954305 22.5,8.5 L22.5,19.5 Z" id="Shape"></path>
+            <circle id="Oval" cx="12.5" cy="13.5" r="4.5"></circle>
+        </g>
+    </g>
+</svg>

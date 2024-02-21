@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="4px" viewBox="0 0 5 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>i-caret</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-963.000000, -464.000000)" fill-opacity="0.34">
+        <g id="Group-3" transform="translate(446.000000, 362.000000)" fill="#000000">
+            <g id="member-list" transform="translate(0.000000, 69.000000)">
+                <g id="role" transform="translate(457.000000, 25.000000)">
+                    <g id="i-caret" transform="translate(60.000000, 8.500000)">
+                        <polygon id="Shape" points="2.5 0 0 0 2.5 3 5 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

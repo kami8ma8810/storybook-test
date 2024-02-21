@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="180px" viewBox="0 0 360 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>live-preview-illust</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.7491319%" y1="0%" x2="68.2508681%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF3874" offset="0%"></stop>
+            <stop stop-color="#DA60FA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="39" height="1" rx="0.5"></rect>
+        <rect id="path-4" x="0" y="0" width="100" height="57" rx="3"></rect>
+        <rect id="path-6" x="0" y="0" width="100" height="57" rx="3"></rect>
+        <rect id="path-8" x="0" y="0" width="100" height="57" rx="3"></rect>
+        <rect id="path-10" x="0" y="0" width="100" height="57" rx="3"></rect>
+        <rect id="path-12" x="0" y="0" width="100" height="57" rx="3"></rect>
+        <rect id="path-14" x="0" y="0" width="100" height="57" rx="1"></rect>
+        <rect id="path-16" x="0" y="0" width="100" height="57" rx="1"></rect>
+        <rect id="path-18" x="0" y="0" width="100" height="57" rx="1"></rect>
+        <linearGradient x1="27.7777778%" y1="0%" x2="72.2222222%" y2="100%" id="linearGradient-20">
+            <stop stop-color="#FF5588" offset="0%"></stop>
+            <stop stop-color="#E26FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="33.9444444%" x2="100%" y2="66.0555556%" id="linearGradient-21">
+            <stop stop-color="#FF5588" offset="0%"></stop>
+            <stop stop-color="#E26FFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-22" x="0" y="0" width="21" height="40" rx="3"></rect>
+        <rect id="path-24" x="0" y="0" width="21" height="40" rx="3"></rect>
+        <rect id="path-26" x="0" y="0" width="21" height="40" rx="3"></rect>
+        <linearGradient x1="43.3884299%" y1="0%" x2="56.6115701%" y2="100%" id="linearGradient-28">
+            <stop stop-color="#FF3874" offset="0%"></stop>
+            <stop stop-color="#DA60FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="live-preview-illust">
+            <g>
+                <rect id="Rectangle-18" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="360" height="180"></rect>
+                <path d="M103.703597,79.7065616 C103.883919,67.3545808 110.830382,57.0757922 121.576393,51.7027864 C131.859874,46.561046 143.779491,46.908698 152.377544,53.0185479 C160.658195,32.9067035 177.036787,22.5 196.6,22.5 C210.64634,22.5 222.0473,28.7566239 231.085965,39.7321464 C237.487377,47.5052888 242.084381,56.7751423 245.361725,66.5057839 C250.946756,66.6810973 260.74278,70.8280239 268.415296,77.061943 C278.869153,85.5557017 285.1,97.0261243 285.1,111 C285.1,125.111462 278.746383,135.700825 267.821626,142.769785 C259.502997,148.152427 248.798654,151.1 240.6,151.1 L108.6,151.1 C100.976656,151.1 92.3474038,148.374973 85.7451446,143.296312 C77.5792335,137.014842 72.9,127.656375 72.9,115.4 C72.9,97.3859025 89.0839237,80.0918715 103.703603,79.7065615 Z" id="Rectangle-7" stroke="url(#linearGradient-1)" opacity="0.318444293" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+                <g id="pc" transform="translate(124.000000, 67.000000)">
+                    <g id="Rectangle-8-Copy-3" transform="translate(32.000000, 69.000000)">
+                        <g id="path-1-Clipped">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <rect id="path-1" stroke="#292929" stroke-width="2" fill-opacity="0" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)" x="0" y="0" width="39" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-8-Copy-2" fill="#333333" fill-rule="nonzero" x="47" y="56" width="8" height="14" rx="1"></rect>
+                    <g id="Group-8">
+                        <g id="Rectangle-8-Clipped">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <g id="Rectangle-8" mask="url(#mask-5)">
+                                <g id="path-3-Clipped">
+                                    <mask id="mask-7" fill="white">
+                                        <use xlink:href="#path-6"></use>
+                                    </mask>
+                                    <g id="path-3"></g>
+                                    <rect id="path-3" stroke="#292929" stroke-width="2" fill="#EEEEEE" fill-rule="nonzero" mask="url(#mask-7)" x="0" y="0" width="100" height="57" rx="3"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Rectangle-25-Clipped">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <rect id="Rectangle-25" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-9)" x="1" y="1" width="98" height="5"></rect>
+                        </g>
+                        <g id="Rectangle-25-Copy-Clipped">
+                            <mask id="mask-11" fill="white">
+                                <use xlink:href="#path-10"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <rect id="Rectangle-25-Copy" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-11)" x="1" y="7" width="15" height="49"></rect>
+                        </g>
+                        <g id="Rectangle-25-Copy-2-Clipped">
+                            <mask id="mask-13" fill="white">
+                                <use xlink:href="#path-12"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <rect id="Rectangle-25-Copy-2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-13)" x="84" y="7" width="15" height="49"></rect>
+                        </g>
+                        <g id="Rectangle-8-Clipped">
+                            <mask id="mask-15" fill="white">
+                                <use xlink:href="#path-14"></use>
+                            </mask>
+                            <g id="path-7"></g>
+                            <g id="Rectangle-8" mask="url(#mask-15)">
+                                <g id="path-7-Clipped">
+                                    <mask id="mask-17" fill="white">
+                                        <use xlink:href="#path-16"></use>
+                                    </mask>
+                                    <g id="path-7"></g>
+                                    <rect id="path-7" stroke="#292929" stroke-width="2" mask="url(#mask-17)" x="0" y="0" width="100" height="57" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-9-Clipped">
+                            <mask id="mask-19" fill="white">
+                                <use xlink:href="#path-18"></use>
+                            </mask>
+                            <g id="path-7"></g>
+                            <g id="Group-9" mask="url(#mask-19)">
+                                <g transform="translate(43.000000, 16.000000)" id="Rectangle-10-Copy">
+                                    <g>
+                                        <g id="Group" fill-rule="nonzero">
+                                            <g id="path-12-link" fill="#FFFFFF">
+                                                <rect id="path-12" x="0" y="0" width="17" height="30"></rect>
+                                            </g>
+                                            <g id="path-12-link" fill="url(#linearGradient-21)" fill-opacity="0.5">
+                                                <rect id="path-12" x="0" y="0" width="17" height="30"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="iphone" transform="translate(217.000000, 99.000000)">
+                    <g id="Rectangle-8-Copy">
+                        <g id="path-13-Clipped">
+                            <mask id="mask-23" fill="white">
+                                <use xlink:href="#path-22"></use>
+                            </mask>
+                            <g id="path-13"></g>
+                            <rect id="path-13" stroke="#333333" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-23)" x="0" y="0" width="21" height="40" rx="3"></rect>
+                        </g>
+                    </g>
+                    <g id="Rectangle-10-Copy" transform="translate(2.000000, 5.000000)" fill-rule="nonzero">
+                        <g id="path-15-link" fill="#FFFFFF">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                        <g id="path-15-link" fill="url(#linearGradient-21)" fill-opacity="0.5">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="iphone" transform="translate(316.000000, 96.000000)">
+                    <g id="Rectangle-8-Copy">
+                        <g id="path-13-Clipped">
+                            <mask id="mask-25" fill="white">
+                                <use xlink:href="#path-24"></use>
+                            </mask>
+                            <g id="path-13"></g>
+                            <rect id="path-13" stroke="#333333" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-25)" x="0" y="0" width="21" height="40" rx="3"></rect>
+                        </g>
+                    </g>
+                    <g id="Rectangle-10-Copy" transform="translate(2.000000, 5.000000)" fill-rule="nonzero">
+                        <g id="path-15-link" fill="#FFFFFF">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                        <g id="path-15-link" fill="url(#linearGradient-21)" fill-opacity="0.5">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="iphone" transform="translate(22.000000, 98.000000)">
+                    <g id="Rectangle-8-Copy">
+                        <g id="path-13-Clipped">
+                            <mask id="mask-27" fill="white">
+                                <use xlink:href="#path-26"></use>
+                            </mask>
+                            <g id="path-13"></g>
+                            <rect id="path-13" stroke="#333333" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-27)" x="0" y="0" width="21" height="40" rx="3"></rect>
+                        </g>
+                    </g>
+                    <g id="Rectangle-10-Copy" transform="translate(2.000000, 5.000000)" fill-rule="nonzero">
+                        <g id="path-15-link" fill="#FFFFFF">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                        <g id="path-15-link" fill="url(#linearGradient-21)" fill-opacity="0.5">
+                            <rect id="path-15" x="0" y="0" width="17" height="30"></rect>
+                        </g>
+                    </g>
+                </g>
+                <polygon id="Rectangle-6-Copy" fill="url(#linearGradient-28)" fill-rule="nonzero" opacity="0.5" points="299.727273 113 302.272727 115.5 308 113.625 302.272727 118 299.727273 115.5 294 117.375"></polygon>
+                <polygon id="Rectangle-6-Copy" fill="url(#linearGradient-28)" fill-rule="nonzero" opacity="0.5" points="56.7272727 115 59.2727273 117.5 65 115.625 59.2727273 120 56.7272727 117.5 51 119.375"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

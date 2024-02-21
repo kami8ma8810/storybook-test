@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>i-12-external-link</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="i-12-external-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-6" fill-opacity="0" fill="#000000" x="0" y="0" width="10" height="10"></rect>
+        <polyline id="Line-3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="9.5 6.5 9.5 10.5 1.5 10.5 1.5 2.5 5.5 2.5"></polyline>
+        <polyline id="Line-3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="5.5 6.5 10.5 1.5 7.5 1.5 10.5 1.5 10.5 4.5"></polyline>
+    </g>
+</svg>

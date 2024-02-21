@@ -1,0 +1,30 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="10" height="6" rx="1.5" transform="translate(7 9)" fill="none" stroke="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 7)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 5)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 9)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 11)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 13)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 15)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 17)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(5 19)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(7 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(9 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(11 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(13 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(15 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(17 21)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 19)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 17)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 15)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 13)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 11)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 9)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(19 7)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(17 5)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(15 3)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(13 3)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(11 3)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(9 3)" fill="black"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="translate(7 3)" fill="black"/>
+</svg>

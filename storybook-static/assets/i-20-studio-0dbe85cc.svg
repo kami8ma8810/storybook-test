@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20-studio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF0055" offset="0%"></stop>
+            <stop stop-color="#F94CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="i-20-studio" fill="url(#linearGradient-1)">
+            <g id="Group">
+                <path d="M4.08546101,14.6766122 L14.6766122,4.08546101 C14.7905603,3.971513 14.9753065,3.971513 15.0892545,4.08546101 L15.914539,4.91074548 C16.028487,5.02469349 16.028487,5.20943973 15.914539,5.32338775 L5.32338775,15.914539 C5.20943973,16.028487 5.02469349,16.028487 4.91074548,15.914539 L4.08546101,15.0892545 C3.971513,14.9753065 3.971513,14.7905603 4.08546101,14.6766122 Z" id="c3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>i-16-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Project" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="65-px" transform="translate(-308.000000, -442.000000)">
+            <g id="i-16-arrow-left" transform="translate(308.000000, 442.000000)">
+                <rect id="Rectangle-8" fill="#FFFFFF" x="0" y="0.5" width="15" height="15"></rect>
+                <path d="M9.67196291,12.7670699 C10.0795689,12.3990965 10.0625988,11.8160583 9.64236477,11.4716253 L6.12336771,8.58737793 C5.6994151,8.23989705 5.70313372,7.67331805 6.12336771,7.32869959 L9.64236477,4.44289929 C10.0663174,4.09523131 10.0829726,3.51816205 9.67196291,3.14711592 L9.73803513,3.20676377 C9.33042912,2.83879034 8.66886662,2.8394246 8.26428143,3.20467092 L3.73571725,7.29291095 C3.32939157,7.65972852 3.33113206,8.25602858 3.73571725,8.62127489 L8.26428143,12.7095149 C8.67060711,13.0763325 9.32702546,13.0784682 9.73803513,12.707422 L9.67196291,12.7670699 Z" id="Fill-2" fill-opacity="0.54" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

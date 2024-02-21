@@ -1,0 +1,7 @@
+import{M as e,L as r,i as t,r as s,a as i}from"./ModalPvLimitAlertView-cb9178ae.js";import"./vue.esm-bundler-33967e91.js";import{M as n,u as c}from"./BasicModal-000dc82b.js";import{s as m}from"./chunk-OTMFLEOE-7b1be8d1.js";import"./vue-i18n.cjs-bd62fc86.js";import"./_commonjsHelpers-042e6b4d.js";import"./ModalUpgradeRequired-a455cfd7.js";import"./PfButton-db6d6722.js";import"./PfIconContext-bd54ca9b.js";import"./lodash-bf1bac5c.js";import"./_commonjs-dynamic-modules-302442b1.js";import"./iframe-4066d2cc.js";import"../sb-preview/runtime.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./PfIcon-bb1c3c10.js";import"./mapValues-a1d744f5.js";const{global:d}=__STORYBOOK_MODULE_GLOBAL__;var{window:l}=d;l.STORYBOOK_ENV="vue3";l.PLUGINS_SETUP_FUNCTIONS||=new Set;try{module?.hot?.decline&&module.hot.decline()}catch{}const u={install(o){o.component("Modal",n),o.component("ModalPortal",e);const a=c();o.config.globalProperties.$modal=a}},g={locale:{defaultValue:"JP",toolbar:{icon:"globe",items:["JP","EN"]}}},I={parameters:{actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}},decorators:[o=>({components:{story:o,ModalManager:e,LoadSvgIcons:r},template:`
+      <div class="w-full h-full">
+        <LoadSvgIcons />
+        <ModalManager />
+        <story />
+      </div>
+      `})],globalTypes:g};m(o=>{o.__VUE_I18N__||(t.global.locale.value="JP",o.use(t),o.use(s),o.use(u),o.use(i))});export{I as default};

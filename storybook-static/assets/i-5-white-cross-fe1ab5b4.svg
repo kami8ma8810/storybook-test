@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="5px" viewBox="0 0 5 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>i-5-white-cross</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="i-5-white-cross" stroke="#FFFFFF">
+            <g id="Group-6">
+                <path d="M0.5,0.5 L4.5,4.5" id="Line"></path>
+                <path d="M4.5,0.5 L0.5,4.5" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>

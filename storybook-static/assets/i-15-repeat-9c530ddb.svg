@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>i-15-repeat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="i-15-repeat">
+            <g id="Group-5">
+                <rect id="Rectangle-12" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="15" height="15"></rect>
+                <path d="M3.5,6.5 L3.5,6.5 C3.5,5.3954305 4.38670635,4.5 5.49810135,4.5 L11.5,4.5 L9.5,6.5 L11.5,4.5 L9.5,2.5" id="Line" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M3.5,12.5 L3.5,12.5 C3.5,11.3954305 4.38670635,10.5 5.49810135,10.5 L11.5,10.5 L9.5,12.5 L11.5,10.5 L9.5,8.5" id="Line" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.500000, 10.500000) scale(-1, -1) translate(-7.500000, -10.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
